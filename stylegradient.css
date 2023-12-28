@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.gradientcard{
+            width: 500px;
+            background: #dd3e54;  /* fallback for old browsers */
+            background: -webkit-linear-gradient(to right, #6be585, #dd3e54);  /* Chrome 10-25, Safari 5.1-6 */
+            background: linear-gradient(to right, #6be585, #dd3e54); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+            
+            background-size: cover;
+            padding: 30px;
+            font-size: 20px;
+            margin: 20px;
+            text-align: justify;
+            font-family: 'Times New Roman', Times, serif;
+            display: inline-block;
+
+}
+.gradientcard a{
+            background-color: blue;
+            text-decoration: none;
+            color: white;
+            padding: 15px;
+            display: inline-block;
+            margin: 20px 30px;
+            border-radius: 30px;
+
+
+}
+
+.abu{
+    width: 150px;
+    height: 100px;
+    margin: 40px;
+    font-size: 15px;
+    background-color: antiquewhite;
+    padding: 80px 20px;
+    border-radius: 25px;
+    display: inline-block;
+}
+
+.kho{
+    width: 350px;
+    height: 400px;
+    border: 3px solid red;
+    padding: 30px 20px;
+    margin: 40px;
+}
+
+.kho a{
+    background-color: antiquewhite;
+    width: 80;
+    color: red;
+    padding: 20px;
+    display: inline-block;
+
+}
+
+
